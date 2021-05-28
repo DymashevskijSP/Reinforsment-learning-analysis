@@ -1,0 +1,1 @@
+50 gen bipedal walker + 50 gen stumps lvl 1 + 150 gen stumps lvl 2 + 60 gen pits lvl 1-2 + 150 gen Hardcore

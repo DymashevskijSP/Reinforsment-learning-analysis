@@ -1,0 +1,2 @@
+model learned to move over pits lvl 1-2
+150 generations
